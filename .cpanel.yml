@@ -1,4 +1,4 @@
 deployment:
     tasks:
         - /bin/cp index.html $HOME/arantes.dev/
-        - /bin/cp -R images $HOME/arantes.dev/
+        - /bin/cp -R assets $HOME/arantes.dev/
