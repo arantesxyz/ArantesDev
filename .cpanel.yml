@@ -1,0 +1,5 @@
+deployment:
+    tasks:
+        - export PATH=/home/user/arantes.dev/
+        - /bin/cp index.html $PATH
+        - /bin/cp -R images $PATH
